@@ -1,0 +1,15 @@
+let {Effdel}=require('./models');
+Effdel.create({data:"Something1"});
+Effdel.create({data:"Something2"});
+Effdel.create({data:"Something3"});
+Effdel.create({data:"Something4"});
+Effdel.create({data:"Something5"});
+Effdel.create({data:"Something6"});
+Effdel.create({data:"Something7"});
+Effdel.create({data:"Something8"});
+Effdel.create({data:"Something9"});
+Effdel.create({data:"Something10"});
+Effdel.create({data:"Something11"});
+Effdel.create({data:"Something12"});
+Effdel.create({data:"Something13"});
+Effdel.create({data:"Something14"});
